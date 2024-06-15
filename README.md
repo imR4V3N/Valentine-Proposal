@@ -1,3 +1,3 @@
 # Valentine's Day Proposal
 
-Projet web interactif et humoristique qui célèbre l'amour avec une touche comique. Le projet combine HTML, CSS et JavaScript pour créer une expérience divertissante et originale autour du thème de la Saint-Valentin. Les images et les demandes sont stockées dans un tableau JSON pour une gestion flexible et dynamique.
+Interactive and humorous web project that celebrates love with a comic touch. The project combines HTML, CSS and JavaScript to create an entertaining and original experience around the theme of Valentine's Day. Images and requests are stored in a JSON array for flexible and dynamic management.
